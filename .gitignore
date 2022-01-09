@@ -1,0 +1,3 @@
+indexdir/
+*.json
+__pycache__
