@@ -21,7 +21,7 @@ Please follow my previous implementation step by step to crawl and process the d
 
 ## Whoosh library for indexing documents
 
-Now we have the documents being standardized. These documents were stored in json file which can be then used for indexing documents
+Now we have the documents being standardized. These documents were stored in json file which can be then used for indexing documents with the help of Whoosh library.
 
 Change some parameters in `simeple_whoosh_demo.py` as following:
 
